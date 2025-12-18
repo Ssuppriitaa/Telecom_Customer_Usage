@@ -1,0 +1,13 @@
+# Java
+*.class
+
+# IDE
+.vscode/
+.idea/
+*.iml
+
+# Build
+target/
+
+# Secrets
+.env
